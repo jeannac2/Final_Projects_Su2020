@@ -29,11 +29,14 @@ Hypothesis: I hypothesize that respondents who have children will have a greater
 
 Resources
 
+Buchsbaum, P. (2012). Modified Pert Simulation. https://www.researchgate.net/publication/318702610_Modified_Pert_Simulation
 
 Murali V, Oyebode F. Poverty, social inequality and mental health. Adv Psychiatr Treat 2004;10(3):216-24.
 
 Glaze, S. & Richardson, B. (2017). Poor choice? Smith, Hayek and the moral economy of food consumption. 
 Economy & Society, 46(1), 128-151.
+
+
 
 
 
