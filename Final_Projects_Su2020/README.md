@@ -24,6 +24,7 @@ LivingWithChildren: The number of people living under 18 in the respondents home
 Has_Eaten_Healthy: Whether or not the respondent is eating healthy
 
 Dependent
+
 Weight: The weight in pounds of the respondent
 
 Hypothesis: I hypothesize that respondents who have children will have a greater likelyhood of eating healthy and being overweight
